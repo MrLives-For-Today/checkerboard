@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box0 {
+    background-color:red;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+}
+
+.box1 {
+    background-color:black;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+}
+
+.row {
+    height: 70px;
+}
